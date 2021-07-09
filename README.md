@@ -5,7 +5,7 @@
 
 # 在线阅读
 
-<https://0xcafebabe.gitbook.io/system-design//>
+<https://0xcafebabe.gitbook.io/system-design/>
 
 
 # Community
